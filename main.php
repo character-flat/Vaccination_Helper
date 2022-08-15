@@ -84,6 +84,8 @@ include_once 'includes/dbh.php';
 <br>
 <br>
 <br>
+<br>
+<br>
 <?php
 session_start();
 $_SESSION['varTrans'] = $ploc;
